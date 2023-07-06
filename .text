@@ -1,0 +1,15 @@
+git install
+account on github
+COMMANDS
+1. git --version
+2. git config --global user.name "ABC"
+3. git config --global user.email "abc@gmail.com"
+4. git config --global user.email
+5. git config --global --edit
+6. Press ESC key > :WQ Enter key
+7. ctrl + L : to clear terminal screen
+8. git init : to initialize the folder
+9. ls
+10. git status : status of the repo
+11. 
+
