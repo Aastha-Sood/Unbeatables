@@ -11,5 +11,10 @@ COMMANDS
 8. git init : to initialize the folder
 9. ls
 10. git status : status of the repo
-11. 
-
+11. git add file name, file name....
+12. git add . : to save all files at 1 go
+13. git commit -m" " 
+14. git remote add origin PASTE LINK
+15. git remote
+16. git push origin master
+How to jump between commits
