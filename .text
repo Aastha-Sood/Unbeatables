@@ -18,3 +18,11 @@ COMMANDS
 15. git remote
 16. git push origin master
 How to jump between commits
+17. git log : - to see how many commits have been done
+18. git checkout PASTE HASHCODE OF PARTICULAR COMMIT YOU WANT TO CHECK
+19. git checkout master :- to comeback to master commit
+How to create branch
+20. git branch BRANCH NAME :- create a branch
+21. git branch  :- to see all the branch list
+22. git checkout BRANCH NAME :- goto a particular branch
+23. git checkout -b BRANCH NAME
