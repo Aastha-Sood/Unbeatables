@@ -26,3 +26,4 @@ How to create branch
 21. git branch  :- to see all the branch list
 22. git checkout BRANCH NAME :- goto a particular branch
 23. git checkout -b BRANCH NAME
+3 branches master > dev > insta
