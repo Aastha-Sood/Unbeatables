@@ -25,5 +25,11 @@ How to create branch
 20. git branch BRANCH NAME :- create a branch
 21. git branch  :- to see all the branch list
 22. git checkout BRANCH NAME :- goto a particular branch
-23. git checkout -b BRANCH NAME
+23. git checkout -b BRANCH NAME:- created and checkout the branch within one command
 3 branches master > dev > insta
+24. git status
+25. git add FILE NAME
+26. git commit -m ""
+27. git checkout PREVIOUS BRANCH (dev)
+28. git merge BRANCH NAME
+29. 
